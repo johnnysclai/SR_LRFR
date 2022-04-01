@@ -2,7 +2,7 @@
 PyTorch implementation of [Low-Resolution Face Recognition Based on Identity-Preserved Face Hallucination](https://ieeexplore.ieee.org/document/8803782).
 
 ### Citation
-If you use our models, please cite the following paper:
+If you find this work useful for your research, please consider cite our paper:
 ```
 @inproceedings{lai2019low,
   title={Low-Resolution Face Recognition Based on Identity-Preserved Face Hallucination},
