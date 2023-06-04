@@ -1,6 +1,4 @@
 # SR LRFR
-![visitors](https://visitor-badge.glitch.me/badge?page_id=johnnysclai/SR_LRFR)
-
 PyTorch implementation of [Low-Resolution Face Recognition Based on Identity-Preserved Face Hallucination](https://ieeexplore.ieee.org/document/8803782).
 
 ### Citation
